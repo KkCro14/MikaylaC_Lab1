@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "My name is Mikayla nad this is my first git comment.\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
