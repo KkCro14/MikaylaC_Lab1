@@ -12,7 +12,7 @@ int main()
     std::cout << "My name is Mikayla nad this is my first git comment.\n";
     std::cout << "I am learning how to use git make a repository through vs code.\n";
     cout << "Changes made by Marquentis Moorer!" << endl;
-
+    cout << "Lab 1 completed on April 13" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

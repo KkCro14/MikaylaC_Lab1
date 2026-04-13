@@ -10,4 +10,4 @@ This is a simple C++ console application created for Git Lab 1.
 
 ## Team Members
 - Mikayla Crotts
-- [Partner Name]
+- M Moore
